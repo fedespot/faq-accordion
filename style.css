@@ -115,6 +115,19 @@ hr{
         background: none;
     }
     .card{
-        width: 570px;
+        width: 600px;
+    }
+    .card__title{
+        margin-bottom: 2em;
+    }
+    .card__title__img img{
+        width: 40px;
+        padding-top: 5px;
+    }
+    .card__title__faq h1{
+        font-size: 3rem;
+    }
+    .paragraph{
+        font-size: 1rem;
     }
 }
